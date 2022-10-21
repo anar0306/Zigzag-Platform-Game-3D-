@@ -1,3 +1,3 @@
 # Zigzag-Platform-Game-3D-
- [Plaform Game]
-[Plaform Game] (https://simmer.io/@anar0306/platofrmgame)
+if you want to play you can check the link:
+https://simmer.io/@anar0306/platofrmgame
